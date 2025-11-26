@@ -7,7 +7,7 @@ TF-IDF特徴量とLightGBMによる、テキストデータの旧かな/新か�
 
 このツールは
 [第27回図書館総合展　国立国会図書館主催フォーラム「NDLラボの公開ツールを使ってみよう！—NDL古典籍OCR-Liteや古典籍・近代自筆資料への全文検索が広げる資料探索の可能性—」](https://www.ndl.go.jp/jp/event/events/lff2025.html)
-のために次世代システム開発研究室にて作成したものです。
+のために作成したものです。
 
 ## 使い方
 Open in Colabボタンを押すとGoogle Colabotatoryノートブックが開く。
