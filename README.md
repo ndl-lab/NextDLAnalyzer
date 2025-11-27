@@ -10,7 +10,7 @@ TF-IDF特徴量とLightGBMによる、テキストデータの旧かな/新か�
 のために作成したものです。
 
 ## 使い方
-Open in Colabボタンを押すとGoogle Colabotatoryノートブックが開く。
+Open in Colabボタンを押すとGoogle Colabotatoryノートブック（外部サイト）が開く。
 
 次のUIが表示されるので、検索・取得したい内容を入れる。
 
