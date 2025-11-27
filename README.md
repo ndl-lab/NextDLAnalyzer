@@ -1,7 +1,7 @@
 # 第27回図書館総合展　国立国会図書館主催フォーラム付録ツール
 次世代デジタルライブラリーからのテキストデータのダウンロードと新旧かな判定ツール
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ndl-lab/blob/master/disedigietextdownloader.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ndl-lab/NextDLAnalyzer/blob/master/disedigietextdownloader.ipynb)
 
 TF-IDF特徴量とLightGBMによる、テキストデータの旧かな/新かな自動判定機能を有した、ダウンローダです。
 
